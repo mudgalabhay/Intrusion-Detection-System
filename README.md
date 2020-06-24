@@ -1,4 +1,4 @@
-# intrusion-detection-system
+# Intrusion-Detection-System
 IDS monitors a network or systems for malicious activity and protects a computer network from unauthorized access from users,including perhaps insider.
 
 # MODELS
